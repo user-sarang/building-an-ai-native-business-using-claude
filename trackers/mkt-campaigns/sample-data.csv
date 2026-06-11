@@ -1,0 +1,5 @@
+campaign_id,campaign_name,utm_campaign,objective,channels,focus_sku,start_date,end_date,status,total_budget,owner_id,target_metric,target_value,notes
+CMP-2026-001,Always-On Conversions,always-on-conversions-2026,CONVERSIONS,META|GOOGLE,AQM-PRO-01,2026-01-01,,ACTIVE,30000,EMP-017,ROAS,3,Evergreen prospecting + retargeting for the desk monitor
+CMP-2026-002,Desk Upgrade Awareness,desk-upgrade-awareness-2026,AWARENESS,META,AQM-PRO-01,2026-05-01,,ACTIVE,10000,EMP-017,CTR,1.5,Positions the monitor as a clean clock+AQI desk piece
+CMP-2026-003,Amazon Sponsored Products,amazon-sponsored-2026,CONVERSIONS,AMAZON,AQM-PRO-01,2026-03-01,,ACTIVE,8000,EMP-017,ROAS,4,Defends and grows the Amazon listing
+CMP-2026-004,Pollution Season Push,pollution-season-2026,CONVERSIONS,META|GOOGLE|INFLUENCER,AQM-PRO-01,2026-10-01,2027-01-31,PLANNED,50000,EMP-017,REVENUE,500000,Seasonal burst placeholder; confirm once seasonality is known

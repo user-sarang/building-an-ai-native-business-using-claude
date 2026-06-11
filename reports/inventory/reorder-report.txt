@@ -1,0 +1,19 @@
+INVENTORY RECOMPUTE REPORT
+Generated: 2026-06-11   Movements processed: 31   SKUs: 12
+
+Total active inventory value: Rs 1,897,720
+
+REORDER ALERTS (available <= reorder point):
+  [LOW_STOCK   ] ACC-ADP-5V     Power Adapter 5V 2A          avail   90 (reorder pt 100, suggest order 300)
+  [OUT_OF_STOCK] ACC-FLT-01     Replacement Filter           avail    0 (reorder pt 150, suggest order 400)
+  [LOW_STOCK   ] AQM-LITE-01    AirSense Lite                avail   48 (reorder pt 120, suggest order 200)
+  [LOW_STOCK   ] AQM-PRO-02     AirSense Pro Max             avail    3 (reorder pt 80, suggest order 150)
+
+RECONCILIATION vs prior snapshot (engine replaces stale hand-typed numbers):
+  ACC-SEN-PM25   prior   500  ->  computed   497   (delta -3)
+  AQM-LITE-01    prior   120  ->  computed    48   (delta -72)
+  AQM-PRO-01     prior   340  ->  computed   351   (delta +11)
+  AQM-PRO-02     prior     0  ->  computed     4   (delta +4)
+  SPK-BT-05      prior   210  ->  computed   297   (delta +87)
+  SPK-BT-10      prior    75  ->  computed   198   (delta +123)
+  SPK-SB-02      prior    40  ->  computed    50   (delta +10)

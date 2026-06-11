@@ -1,0 +1,1 @@
+Drop creative files here, named per ../README.md. Index them in ../creatives-index.csv.

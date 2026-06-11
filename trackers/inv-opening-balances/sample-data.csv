@@ -1,0 +1,13 @@
+sku_id,as_of_date,opening_qty,unit_cost,notes
+AQM-PRO-01,2026-05-25,0,3200,"Cutover physical count"
+AQM-LITE-01,2026-05-25,50,2100,"Cutover physical count"
+AQM-PRO-02,2026-05-25,5,3800,"New model, initial build"
+SPK-BT-05,2026-05-25,0,850,"Cutover physical count"
+SPK-BT-10,2026-05-25,0,620,"Cutover physical count"
+SPK-SB-02,2026-05-25,0,2400,"Cutover physical count"
+ACC-SEN-PM25,2026-05-25,0,280,"Cutover physical count"
+ACC-ADP-5V,2026-05-25,92,95,"Cutover physical count"
+ACC-MNT-WALL,2026-05-25,260,60,"Cutover physical count"
+ACC-FLT-01,2026-05-25,0,45,"Cutover physical count"
+SPK-BT-03,2026-05-25,12,700,"Discontinued, clearing stock"
+AQM-STD-01,2026-05-25,8,2600,"Discontinued, clearing stock"
