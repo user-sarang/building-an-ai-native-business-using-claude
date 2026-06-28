@@ -4,4 +4,4 @@ User-generated content references — real customer photos, kitchen shots, testi
 imagery. The creator agent uses these for authenticity cues; the reviewer may check
 that the homely/real feeling is preserved.
 
-This README is committed; image binaries are gitignored.
+Images placed here are committed to the repo.

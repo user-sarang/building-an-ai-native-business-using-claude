@@ -13,12 +13,7 @@ service-account*.json
 # generate-marketing-ads: generated images can be large
 marketing-ads/outputs/
 
-# generate-marketing-ads: reference image binaries (3rd-party / large) — keep structure only
-marketing-ads/inputs/**/*.jpg
-marketing-ads/inputs/**/*.jpeg
-marketing-ads/inputs/**/*.png
-marketing-ads/inputs/**/*.webp
-marketing-ads/inputs/**/*.gif
+# NOTE: reference images under marketing-ads/inputs/ ARE committed (brand/competitor/ugc).
 
 # Python
 __pycache__/
